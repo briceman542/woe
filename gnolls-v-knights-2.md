@@ -4,7 +4,7 @@ layout: default
 permalink: /gnolls-v-knights-2/
 ---
 
-# Knights Vs Gnolls: Part 2: NIGHT RAID
+# Knights Vs Gnolls: Part 2: NIGHT RAID Test
 ## Goal 
 Knights defend barn from being burnt and houses from being raided.
 
